@@ -38,16 +38,21 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[git clone ]
+[git clone https://github.com/Pavithra123-cs/Theriii.git  ]
+[cd therii]
 
 # Run
-[commands]
+[open index.html]
+[start index.html]
+[xdg-open index.html]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![<img width="1920" height="1080" alt="screenshot1" src="https://github.com/user-attachments/assets/d109b861-6a31-41d3-9a90-a11b88a335f5" />
+
+](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
