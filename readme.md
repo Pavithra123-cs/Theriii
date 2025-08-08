@@ -55,7 +55,7 @@ For Software:
 ](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![https://drive.google.com/file/d/1AD6qKE4AV49h4YnxC2wFkqcXItkL61EY/view?usp=drive_link](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
