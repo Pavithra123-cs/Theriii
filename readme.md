@@ -94,7 +94,7 @@ For Hardware:
 
 ## Team Contributions
 - [pavithra N.P]: [html and css styling]
-- [Rushdha basheer]: [javascript]
+- [Rushdha basheer]: [javascript running]
 - [Name 3]: [Specific contributions]
 
 ---
